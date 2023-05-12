@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NAVEENINTEL/react-app/static/css/main.073c9b0a.css",
+    "main.js": "/NAVEENINTEL/react-app/static/js/main.f86529d9.js",
+    "static/js/787.fade2e9e.chunk.js": "/NAVEENINTEL/react-app/static/js/787.fade2e9e.chunk.js",
+    "static/media/logo.svg": "/NAVEENINTEL/react-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/NAVEENINTEL/react-app/index.html",
+    "main.073c9b0a.css.map": "/NAVEENINTEL/react-app/static/css/main.073c9b0a.css.map",
+    "main.f86529d9.js.map": "/NAVEENINTEL/react-app/static/js/main.f86529d9.js.map",
+    "787.fade2e9e.chunk.js.map": "/NAVEENINTEL/react-app/static/js/787.fade2e9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f86529d9.js"
+  ]
+}
